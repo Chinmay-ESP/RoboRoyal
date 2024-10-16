@@ -98,6 +98,7 @@ if (Xbox.Xbox360Connected) {
         }
     }
 
+
     // Print the resultant vector resultC
     Serial.print("Resultant Vector C: ");
     for (int i = 0; i < SIZE; i++) {
